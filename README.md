@@ -8,3 +8,11 @@
       ```
       unzip oracle-xe-11.2.0-1.0.x86_64.rpm.zip
       ```
+   c. Install required packages using the command:  
+      ```
+      sudo apt-get install alien libaio1 unixodbc
+      ```
+   d. Enter into the Disk1 folder using command:  
+      ```
+      cd Disk1/
+      ```
